@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My name is Gene. I've used the nickname/handle/whatever "curiousgene" since DefCon 7, which is more years ago than I care to count.
+I'm a Systems Engineer in the Film and TV business. I've supported video editing and production for 20 years now. I play guitar in 
+a band called [Paddy's Pig] (https://www.paddyspig.com). I have a Master's degree in English from [Signum University] (https://www.ignumuniversity.org).
