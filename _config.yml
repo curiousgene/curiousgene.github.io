@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: curiousgene
 
-show_excerpts: true # Show excerpts on front page
+show_excerpts: false # Show excerpts on front page
 
 # Build settings
 theme: minima
