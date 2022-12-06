@@ -7,7 +7,7 @@ categories: update
 I'm moving various things out of Google's services and into other places. For my long-neglected website, that means GitHub pages, and this here
 new thing. 
 
-<!–more–>
+<!-–more-–>
 
 I have been spurred into action in no small part by having had to confront my own mortality, courtesy of my cancer diagnosis. While
 in treatment, I've been looking at the things around me, and seeing that there's a lot of clutter, both physical and metaphorical, that I can
