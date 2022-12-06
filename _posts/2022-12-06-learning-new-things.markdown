@@ -6,9 +6,7 @@ categories: update
 ---
 "During cancer treatment" is probably not the best time to try learning new stuff. I've noticed that I'm not exactly operating
 at peak efficiency. My brain is a bit foggy, especially in the days following an infusion. That said, I've got a lot of free
-time, and since I finished my Master's degree, I've been turning my focus back to music. So I'm learning Max/MSP and Puredata.
-
-<!-–more-–>
+time, and since I finished my Master's degree, I've been turning my focus back to music.
 
 I've been unable to perform with Paddy's Pig since I started chemo, but still play my guitars, and I've been making notes of
 melodies and chord progressions and lyrics for years. What I haven't done is finish any songs, or do much actual recording. I
