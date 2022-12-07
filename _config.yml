@@ -24,7 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
  Gene Sullivan's Relatively Minimal Web Presence 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: curiousgene
+minima:
+  social_links:
+    mastodon:
+      - username: curiousgene
+        instance: mastodon.sdf.org
 
 show_excerpts: true # Show excerpts on front page
 
